@@ -20,7 +20,7 @@ Bu proje, İstanbul'daki ilçelere ait evsel atık ve nüfus verilerini analiz e
 |-------|----------|
 | `atik_analizi.ipynb` | Veri temizleme, birleştirme, görselleştirme ve analiz sürecini içeren Jupyter Notebook |
 | `Atik_Analizi_Raporu.pdf` | Grafik açıklamaları, analiz bulguları ve önerileri içeren detaylı proje raporu |
-| `veriler/` | Nüfus ve atık verilerini içeren Excel/CSV formatındaki kaynak dosyalar |
+| `veriler/` | Nüfus verilerini içeren Excel/CSV formatındaki kaynak dosyalar |
 
 ---
 
