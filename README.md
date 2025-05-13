@@ -29,4 +29,3 @@ Bu proje, İstanbul'daki ilçelere ait evsel atık ve nüfus verilerini analiz e
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook
 - Excel (.xlsx) verisi
-- GitHub versiyon kontrol
